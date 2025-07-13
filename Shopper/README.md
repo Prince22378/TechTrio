@@ -18,9 +18,8 @@
 
 ## 🌐 Deployed Link
 
-- **Integrated Shopper (Frontend + Backend):**
-- 
-  [shopper -web](https://shopper-e-com-full-stack.netlify.app/)
+- **Integrated Shopper : [shopper -web](https://shopper-e-com-full-stack.netlify.app/)**
+  
 
 ---
 
