@@ -17,25 +17,19 @@
 
 We are passionate developers skilled across modern tech domains, focused on efficient and creative solutions. Collaboration and challenge drive us!
 
-### Meet the Team:
-
-- Prajil Bhagat ([GitHub](https://github.com/prajil22359), Email, LinkedIn)
-- - Prajil Bhagat (prajil22359@iiitd.ac.in)(<a href="https://github.com/prajil22359" target="_blank">GitHub</a>, <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>)
-
-- Mohammad Areeb Ansari (GitHub, Email)
-- Prince Kumar (GitHub, Email)
-- Ayush Kumar (GitHub, Email)
-
 ### 👥 Meet the Team
 
 - **Prajil Bhagat**  
-  [GitHub](https://github.com/prajil22359) • [LinkedIn](https://linkedin.com/in/yourprofile) • prajil22359@iiitd.ac.in
+  [GitHub](https://github.com/prajil22359) • [LinkedIn](https://www.linkedin.com/in/prajil-bhagat-387ab9275/) • prajil22359@iiitd.ac.in
+
+- **Mohammad Areeb Ansari**
+  [GitHub](https://github.com/Areeb22297) • [LinkedIn](https://www.linkedin.com/in/mohammad-areeb-ansari/) • areeb22297@iiitd.ac.in
 
 - **Prince Kumar**  
-  [GitHub](https://github.com/princeusername) • prince@example.com
+  [GitHub](https://github.com/Prince22378) • prince22378@iiitd.ac.in
 
 - **Ayush Kumar**  
-  [GitHub](https://github.com/ayushusername) • ayush@example.com
+  [GitHub](https://github.com/Ayush-0404) • ayush125@iiitd.ac.in
 
 
 ---
