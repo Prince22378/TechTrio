@@ -20,6 +20,8 @@ We are passionate developers skilled across modern tech domains, focused on effi
 ### Meet the Team:
 
 - Prajil Bhagat ([GitHub](https://github.com/prajil22359), Email, LinkedIn)
+- - Prajil Bhagat (prajil22359@iiitd.ac.in)(<a href="https://github.com/prajil22359" target="_blank">GitHub</a>, <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>)
+
 - Mohammad Areeb Ansari (GitHub, Email)
 - Prince Kumar (GitHub, Email)
 - Ayush Kumar (GitHub, Email)
