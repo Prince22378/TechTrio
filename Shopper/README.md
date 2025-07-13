@@ -142,7 +142,5 @@ Pull requests are welcome! For major changes, open an issue first to discuss you
 
 ---
 
-**Shopper United – Delivering Agile Tech Solutions for Startups and Enterprises.**
+**Shopper United by TT – Delivering Agile Tech Solutions for Startups and Enterprises.**
 ```
-
-Copy and paste this into your `Shopper/README.md` file. Let me know if you want any further customization!
