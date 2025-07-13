@@ -26,6 +26,18 @@ We are passionate developers skilled across modern tech domains, focused on effi
 - Prince Kumar (GitHub, Email)
 - Ayush Kumar (GitHub, Email)
 
+### 👥 Meet the Team
+
+- **Prajil Bhagat**  
+  [GitHub](https://github.com/prajil22359) • [LinkedIn](https://linkedin.com/in/yourprofile) • prajil22359@iiitd.ac.in
+
+- **Prince Kumar**  
+  [GitHub](https://github.com/princeusername) • prince@example.com
+
+- **Ayush Kumar**  
+  [GitHub](https://github.com/ayushusername) • ayush@example.com
+
+
 ---
 
 ## 🛠 Tech Stack
