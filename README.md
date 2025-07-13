@@ -22,7 +22,7 @@ We are passionate developers skilled across modern tech domains, focused on effi
 - **Prajil Bhagat**  
   [GitHub](https://github.com/prajil22359) • [LinkedIn](https://www.linkedin.com/in/prajil-bhagat-387ab9275/) • prajil22359@iiitd.ac.in
 
-- **Mohammad Areeb Ansari**
+- **Mohammad Areeb Ansari**   
   [GitHub](https://github.com/Areeb22297) • [LinkedIn](https://www.linkedin.com/in/mohammad-areeb-ansari/) • areeb22297@iiitd.ac.in
 
 - **Prince Kumar**  
