@@ -16,9 +16,19 @@
 
 ---
 
-## 🌐 Deployed Link
+## 🌐 Deployed Link and Related Repositoires- 
 
 - **Integrated Shopper : [shopper -web](https://shopper-e-com-full-stack.netlify.app/)**
+
+- **Frontend (Full Stack):**  
+  [GitHub - shopper-e-com-Full-Stack](https://github.com/Areeb22297/shopper-e-com-Full-Stack)
+
+- **Backend:**  
+  [GitHub - shopper-e-com-](https://github.com/Areeb22297/shopper-e-com-)
+
+- **Admin Panel:**  
+  [GitHub - shopper-e-com-admin](https://github.com/Areeb22297/shopper-e-com-admin)  
+  [Deployed Admin Site](https://shopper-e-com-admin.netlify.app/)
   
 
 ---
