@@ -41,5 +41,5 @@ Web Development, Virtual Reality (VR), Application Security, Data Analysis
 ## Contact
 
 Reach out at:
-[https://techtrio.netlify.app/]
-[techtrioiiitd@gmail,com]
+[Website →](https://techtrio.netlify.app/)
+[Mail Us At →](techtrioiiitd@gmail.com)
