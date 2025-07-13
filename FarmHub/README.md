@@ -4,7 +4,7 @@ FarmHub is an ambitious initiative to build a comprehensive hub that caters to a
 
 ## Key Features
 
-- In Progress.
+-- In Progress.
 
 - **Modern Tech Stack:** Building using Flutter and Java for a seamless and robust mobile experience.
 
