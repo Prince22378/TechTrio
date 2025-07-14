@@ -26,7 +26,7 @@ We are passionate developers skilled across modern tech domains, focused on effi
   [GitHub](https://github.com/Areeb22297) • [LinkedIn](https://www.linkedin.com/in/mohammad-areeb-ansari/) • areeb22297@iiitd.ac.in
 
 - **Prince Kumar**  
-  [GitHub](https://github.com/Prince22378) • prince22378@iiitd.ac.in
+  [GitHub](https://github.com/Prince22378) •[LinkedIn](https://www.linkedin.com/in/prince-kumar-35b1a8257/) • prince22378@iiitd.ac.in
 
 - **Ayush Kumar**  
   [GitHub](https://github.com/Ayush-0404) • ayush125@iiitd.ac.in
@@ -43,7 +43,7 @@ C++, C, Java, Python, Kotlin
 GitHub, VS Code, Figma, Canva, MySQL Workbench, Blender, Unity, Wireshark, Selenium, Linux, Shell Scripting, Django, Gunicorn
 
 **Domains:**  
-Web Development, Virtual Reality (VR), Application Security, Data Analysis
+Web Development, Virtual Reality (VR), Application Security, Data Analysis, App Dev, 
 
 ---
 
