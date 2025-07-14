@@ -29,7 +29,7 @@ We are passionate developers skilled across modern tech domains, focused on effi
   [GitHub](https://github.com/Prince22378) • [LinkedIn](https://www.linkedin.com/in/prince-kumar-35b1a8257/) • prince22378@iiitd.ac.in
 
 - **Ayush Kumar**  
-  [GitHub](https://github.com/Ayush-0404) • [LinkedIn](https://www.linkedin.com/in/ayush-kumar-3065842b9/) • ayush125@iiitd.ac.in
+  [GitHub](https://github.com/Ayush-0404) • [LinkedIn](https://www.linkedin.com/in/ayush-kumar-3065842b9/) • ayush22125@iiitd.ac.in
 
 
 ---
