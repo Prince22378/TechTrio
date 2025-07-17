@@ -4,8 +4,8 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-ROBOTS_URL        = "https://jewelbox.co.in/robots.txt"
-PRODUCT_SITEMAP   = "https://jewelbox.co.in/product-sitemap.xml"
+ROBOTS_URL        = "https://xyz.co.in/robots.txt"
+PRODUCT_SITEMAP   = "https://xyz.co.in/product-sitemap.xml"
 OUTPUT_ALL        = "all_urls.xlsx"
 OUTPUT_SKU        = "only_skus.xlsx"
 SITEMAP_NS        = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
